@@ -1,5 +1,7 @@
 # Basic Text Analytics
-This contains basics of Text Analytics.
+This contains basics of Text Analytics. 
+Keywords: WordCloud, TF-IDF, COG Analysis, Data Extraction
+
 If you are given a file containing lots of texts, and you want to create a word-cloud from it.
 You can follow these steps.
 
